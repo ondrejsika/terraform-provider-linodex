@@ -2,6 +2,8 @@
 
 .vscode
 
+dist
+
 terraform-provider-linodex
 terraform-provider-linodex.exe
 
