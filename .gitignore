@@ -1,0 +1,13 @@
+.DS_Store
+
+.vscode
+
+terraform-provider-linodex
+terraform-provider-linodex.exe
+
+*.tf
+*.tfplan
+*.tfstate
+*.backup
+.terraform
+*.log
